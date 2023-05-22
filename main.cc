@@ -134,7 +134,5 @@ int main()
         player++;
     }
 
-
-
     return 0;
 }
